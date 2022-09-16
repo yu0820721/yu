@@ -1,6 +1,1 @@
-#include <stdio.h>
-int main()
-{
-	printf("jjjjjjj\n");
-	return 0;
-}
+#define _CRT_SECURE_NO_WARNINGS 1
